@@ -1,0 +1,35 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  background-color: lightsteelblue;
+  color: darkblue;
+  text-align: center;
+  font-size:50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:link {
+ text-decoration: none;
+ color: darkblue;
+}
+a:visited {
+ text-decoration: none;
+ color: darkblue;
+}
+a:hover {
+ text-decoration: underline overline;
+ color: Dodgerblue;
+}
+a:active {
+ text-decoration: underline overline;
+ color: white;
+}
+
+hr {
+  color: Dodgerblue;
+  background-color: darkblue;
+  height: 10px;
+
+}
